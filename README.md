@@ -1,6 +1,6 @@
 # C++ Enigma
 
-This is a C++ implementation of an Enigma machine. Largely based on [this](https://github.com/mikepound/enigma) project.
+This is a C++ implementation of an [Enigma](https://en.wikipedia.org/wiki/Enigma_machine) machine. Largely based on [this](https://github.com/mikepound/enigma) project.
 
 Here is how you use it:
 
