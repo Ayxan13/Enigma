@@ -1,5 +1,5 @@
 //
-// Created by Ayxan on 4/19/2021.
+// Created by Ayxan Haqverdili on 4/19/2021.
 //
 
 #pragma once
@@ -22,7 +22,6 @@ namespace EnigmaCpp
 		PlugBoard _plugBoard;
 
 	public:
-
 		Enigma(Rotor leftRotor, Rotor middleRotor, Rotor rightRotor,
 			Reflector reflector,
 			PlugBoard plugBoard);

@@ -1,11 +1,11 @@
 //
-// Created by Ayxan on 4/18/2021.
+// Created by Ayxan Haqverdili on 4/18/2021.
 //
 
 #pragma once
 #include <string_view>
 
-// Get info specific to a rotor
+// Get info specific to a rotor (I, II, III, IV, V, VI, VII, VIII)
 namespace EnigmaCpp::RotorTypeSpecific
 {
 	using NotchDetectorType = bool (*)(int rotorPosition, int notchPosition);
