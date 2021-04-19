@@ -5,7 +5,7 @@ This is a C++ implementation of an [Enigma](https://en.wikipedia.org/wiki/Enigma
 Here is how you use it:
 
 ```c++
-#include <iostream>
+#include <cstdio>
 
 #include "Enigma.hpp"
 
@@ -26,6 +26,5 @@ int main()
 	std::printf("'%s' encrypted is '%s'\n",
 		plainText, cipherText.c_str());
 }
-
 ```
 
